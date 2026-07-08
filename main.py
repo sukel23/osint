@@ -81,8 +81,8 @@ def consultar_truecaller_api(numero, token):
 # ==========================================
 st.text("""
 OOOOOO          SSSSSS
-OO       OO         SSS
-OO       OO            SSS
+OO       OO             SSS
+OO       OO                SSS
 OOOOOO          SSSSSS
                         [ CREADO POR: J-I-A-M ]
 """)
