@@ -80,10 +80,10 @@ def consultar_truecaller_api(numero, token):
 # INTERFAZ GRÁFICA INTERACTIVA
 # ==========================================
 st.text("""
-OOOOOO
-OO       OO
-OO       OO  
-OOOOOO
+OOOOOO          SSSSSS
+OO       OO     SSS
+OO       OO        SSS
+OOOOOO          SSSSSS
                         [ CREADO POR: J-I-A-M ]
 """)
 
